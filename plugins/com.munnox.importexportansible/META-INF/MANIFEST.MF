@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Import and Export Model To Ansible
+Bundle-SymbolicName: com.munnox.importexportansible;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Robert Munnoch
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ com.archimatetool.editor
+Automatic-Module-Name: com.archimatetool.importexportexample

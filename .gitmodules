@@ -1,0 +1,4 @@
+[submodule "archi"]
+	path = archi
+	url = https://github.com/archimatetool/archi.git
+	branch = master
