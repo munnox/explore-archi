@@ -2,6 +2,12 @@
 
 To build and modify the Archi and JArchi
 
+To Pull new versions
+
+```bash
+git submodules update --remote
+```
+
 ## Using Developer tutorial
 
 * https://github.com/archimatetool/archi/wiki/Developer-Documentation
@@ -48,7 +54,7 @@ tar -xzvf apache-maven-3.9.6-bin.tar.gz -C ~/maven/
 echo 'export PATH="~/maven/apache-maven-3.9.6/bin/:$PATH"' >> .profile
 ```
 
-#### Other methods
+#### Other methods (Unused)
 
 ```bash
 sudo apt update

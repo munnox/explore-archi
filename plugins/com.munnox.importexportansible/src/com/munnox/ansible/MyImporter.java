@@ -37,8 +37,8 @@ import com.archimatetool.model.IFolder;
 
 
 /**
- * Example Model Importer
- * Shows basic import routines from Ansible Inventory.
+ * Model Importer
+ * Basic import routines from Ansible Inventory.
  * You will need to read in the file somehow and model it in JDOM or DOM Sax parser or some representation and map
  * this to Archi elements.
  * 

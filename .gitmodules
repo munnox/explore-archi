@@ -2,3 +2,6 @@
 	path = archi
 	url = https://github.com/archimatetool/archi.git
 	branch = master
+[submodule "archi-scripting-plugin"]
+	path = archi-scripting-plugin
+	url = https://github.com/archimatetool/archi-scripting-plugin.git

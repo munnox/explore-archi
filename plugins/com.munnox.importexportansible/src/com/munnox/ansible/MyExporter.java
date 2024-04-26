@@ -26,7 +26,7 @@ import com.archimatetool.model.IFolder;
 
 
 /**
- * Example Exporter of Archimate model to Ansible Inventory
+ * Exporter of Archimate model to Ansible Inventory
  * 
  * @author Robert Munnoch
  */
